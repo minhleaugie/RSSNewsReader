@@ -26,6 +26,7 @@
         <activity android:name=".NewsListActivity">
 
         </activity>
+        <activity android:name=".NewsActivity"></activity>
 
     </application>
     <uses-permission android:name="android.permission.INTERNET" />

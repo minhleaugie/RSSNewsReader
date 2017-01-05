@@ -23,6 +23,7 @@ public class Variables {
 
     public static final String NEWS = "news";
     public static final String CATEGORY = "category";
+    public static final String LINK = "link";
 
     public static HashMap<Integer, List<RssItem>> newsMap = new HashMap<Integer, List<RssItem>>();
 
